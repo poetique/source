@@ -1,4 +1,3 @@
-<!-- ヘッダーなど共通部でプルダウンのフォームを作成 -->
 <div align="right" style="margin-top:-2em;">
 <form name="Lang">
 <select name="ChangeLang" onChange="gTranslate()">
@@ -9,7 +8,6 @@
 </form>
 </div>
 
-<!-- Googleウェブサイト翻訳を代替するJavaScriptの本体 -->
 <script type="text/javascript">
 function gTranslate(){
     var getUrl= location.href;
