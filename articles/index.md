@@ -6,3 +6,5 @@ comments: false
 ---
 
 Atelier/Poétiqueの機関紙に関する情報です。
+
+- [もう一つの「シュルレアリスム」：イヴァン・ゴルとアンドレ・ブルトン](goll)
