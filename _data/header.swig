@@ -1,1 +1,1 @@
-<span class="subtitle post-header">{{ subtitle }}</span>
+<span class="subtitle logo-jp">{{ subtitle }}</span>
