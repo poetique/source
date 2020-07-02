@@ -1,1 +1,1 @@
-<span class="subtitle logo-jp">{{ subtitle }}</span>
+<span class="subtitle menu-item">{{ subtitle }}</span>
