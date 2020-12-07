@@ -6,12 +6,12 @@ categories:
 tags: 
 - 
 top: 1
-photo: 
-photo_from: 
+photo: img/chedid.jpg
+photo_from: https://www.laposte.fr/beaux-timbres/unite/timbre-andree-chedid-international/p/1120007
 
 ---
 
-次回の研究会は9月下旬を予定しております。
+次回の研究会は12月下旬を予定しております。
 
 参加希望者は[こちら](/contact/)まで。
 
@@ -19,9 +19,9 @@ photo_from:
 
 - **発表者**：森田俊吾
 
-- **対象詩**：Henri Pichette, *Ode à chacun suivi de Tombeau de Gérard Philipe*, Gallimard, 2009.
-    - Ode à la petite enfance
-    - Ode à Charles Péguy
-    - Ode à la neige
+- **対象詩**：André Chedid
+    - « De cet amour ardent je reste émerveillée » (Poème offert au Printemps des poètes 2007)
+    - « Destination : arbre » (Tant de corps et tant d'âme, 1991)
+    - « Rythmes » (Rythmes, 2003/2017)
 
-- [参考資料（課題詩・翻訳）](https://groups.google.com/g/poesiecontemporaine/c/KExYMFDdUdM)
+- [参考資料（課題詩・翻訳）]()
