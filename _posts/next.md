@@ -24,4 +24,4 @@ photo_from: https://www.laposte.fr/beaux-timbres/unite/timbre-andree-chedid-inte
     - « Destination : arbre » (Tant de corps et tant d'âme, 1991)
     - « Rythmes » (Rythmes, 2003/2017)
 
-- [参考資料（課題詩・翻訳）]()
+- [参考資料（課題詩・翻訳）](https://groups.google.com/g/poesiecontemporaine/c/o7qbWbSJDPw/m/qpsJmAlbAgAJ)
