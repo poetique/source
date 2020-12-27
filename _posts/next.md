@@ -4,7 +4,7 @@ date: 9999-01-01
 categories:
 - お知らせ
 tags: 
-- 
+- アンドレ・シェディッド
 top: 1
 photo: img/chedid.jpg
 photo_from: https://www.laposte.fr/beaux-timbres/unite/timbre-andree-chedid-international/p/1120007
