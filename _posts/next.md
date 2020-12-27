@@ -1,6 +1,6 @@
 ---
 title: 次回の研究会のお知らせ
-date: 2013-06-22
+date: 9999-01-01
 categories:
 - お知らせ
 tags: 
