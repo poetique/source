@@ -4,24 +4,24 @@ date: 9999-01-01
 categories:
 - お知らせ
 tags: 
-- アンドレ・シェディッド
+- アンドレ・ロラン・ド・ルネヴィル
 top: 1
-photo: img/chedid.jpg
-photo_from: https://www.laposte.fr/beaux-timbres/unite/timbre-andree-chedid-international/p/1120007
+photo: img/reneville.jpg
+photo_from: https://pictures.abebooks.com/inventory/6341181862.jpg
 
 ---
 
-次回の研究会は12月下旬を予定しております。
+次回の研究会は4月下旬を予定しております。
 
 参加希望者は[こちら](/contact/)まで。
 
 ## 【ワークショップ（読書会）】
 
-- **発表者**：森田俊吾
+- **発表者**：伊藤琢麻
 
-- **対象詩**：Andrée Chedid
-    - « De cet amour ardent je reste émerveillée » (Poème offert au Printemps des poètes 2007)
-    - « Destination : arbre » (*Tant de corps et tant d'âme*, 1991)
-    - « Rythmes » (*Rythmes*, 2003/2017)
+- **対象詩**：
+    - On récolte
+    - Ô nuit
+    - L'heure en dehors du temps
 
-- [参考資料（課題詩・翻訳）](https://groups.google.com/g/poesiecontemporaine/c/o7qbWbSJDPw/m/qpsJmAlbAgAJ)
+- [参考資料（課題詩・翻訳）]()
