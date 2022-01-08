@@ -4,6 +4,10 @@ h1.site-title {
    font-size:5rem!important;
 }
 
+.header {
+    z-index: 0;
+}
+
 .header-inner {
   display: flex;
   flex-direction: column;
@@ -56,11 +60,22 @@ div#no-result {
     display: none;
 }
 
+.sidebar {
+    color: #bbb;
+    font-size: 1.5rem;
+    z-index: 100;
+}
+
 .sidebar-toggle {
-    bottom: 50px!important;
-    left: 0px!important;
+    bottom: 0px!important;
+    right: 0px!important;
     width: 22px!important;
 }
+
+.back-to-top {
+    font-size: 1.1rem;
+}
+
 
 @media (max-width: 500px) {
     h1.site-title {
@@ -70,4 +85,13 @@ div#no-result {
         letter-spacing: 12px;
         font-size: 0.8rem;
 }
+}
+
+.column-wrap {
+    display: flex;
+    margin-left: 2em;
+}
+
+.clmn {
+    padding: 3em;
 }

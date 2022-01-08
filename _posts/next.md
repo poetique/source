@@ -1,25 +1,25 @@
 ---
 title: 次回の研究会のお知らせ
-date: 2021-09-02
+date: 2022-01-06
 categories:
 - お知らせ
 tags: 
-- テレサ・ハッキョン・チャ
+- 
 top: 1
-photo: img/cha.jpg
-photo_from: https://en.wikipedia.org/wiki/Dictee
+photo: 
+photo_from: 
 
 ---
 
-次回の研究会は9月を予定しております。
+次回の研究会は1月を予定しております。
 
 参加希望者は[こちら](/contact/)まで。
 
 ## 【ワークショップ（読書会）】
 
-- **発表者**：崔盛雄
+- **発表者**：森田俊吾
 
 - **対象詩**：
-    - Theresa Hak Kyung Cha, *Dictée* (1982)
+    - 
 
 - [参考資料（課題詩・翻訳）]()
