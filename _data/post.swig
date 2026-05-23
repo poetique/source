@@ -1,5 +1,5 @@
-{% if post.author and not is_index %}
-<div class="right">
+{% if post.author and is_index %}
+<div class="ABC">
 <span class="post-author">{{ post.author }}</span>
 {% if post.author2 and not is_index %}
 <span class="post-author">({{ post.author2 }})</span>

@@ -3,16 +3,17 @@ title: 〈視覚詩〉をどう読むか？：フランス近現代詩から瀧�
 date: 2018-09-25
 categories:
 - "フランス現代詩研究会"
-number: 41
+number: 4
+catcolor: 1
 author: "山腰亮介"
 author2: Ryosuke Yamakoshi
-tags: 
+tags:
 - 瀧口修造
 - 時間性
 - レイアウト
 cite: true
 photo: img/takiguchi2.jpg
-photo_from: 『⻩よ。 おまえはなぜ』 (南画廊、1964 年、一部) 
+photo_from: 『⻩よ。 おまえはなぜ』 (南画廊、1964 年、一部)
 
 ---
 

@@ -3,9 +3,9 @@ title: シルヴィア・バロン・シュペルヴィエルを読む
 date: 2021-11-08
 categories:
 - "フランス現代詩読書会"
-number:  57
+number:  51
 author: "佐藤園子"
-author2: ""
+author2: "Sonoko SATO"
 tags:
 - シルヴィア・バロン・シュペルヴィエル
 cite: true
@@ -46,7 +46,7 @@ photo_from: https://www.amazon.fr/dp/2908825538
 
 - *Les Fenêtres*, à tirage limité et numéroté, 1977.
 - *Plaine Blanche*, Carmen Martinez, 1980.
-- *Espace de la mer*, Thierry Bouchard, 1981. 
+- *Espace de la mer*, Thierry Bouchard, 1981.
 - *La Distance de sable*, Granit, 1983.
 - *Le mur transparent*, Thierry Bouchard, 1986.
 - *Lectures du vent*, José Corti, 1988.
@@ -138,7 +138,7 @@ qui se tache
 de fugitives
 giclées
 
-\* 
+\*
 
 le déchirement
 du signe
@@ -427,4 +427,4 @@ et de la fin
 
 事実、 « pas »という言葉は、詩集Après le pasはもとより、今回扱った詩篇全体を通して高い頻度で使用されています。歩くことはリズムを刻むことでもあることから、 « pas »という短い言葉で詩そのものを暗示しているようにも読めるでしょう。舞踏の言葉でもある« pas »は、まさに「唇から離れていく抑揚の羽ばたき」のように、軽やかに飛んでいく響きを持っています。これ以外にも、詩の中で重要なフレーズには、開かれ、飛んでいくような響きがあることが指摘されました。例えば、「帰ってきた／私へさえも／私はまだ／出かけたまま」という詩篇に、寄る辺ない寂しさと同時に軽やかさを感じるのも、 « partie »の響きの成せる技かもしれません。
 
-また、研究会ではAprès le pasのみ、作家本人によるスペイン語の翻訳も参照しました。« giclées »が フランス語の« goûte » に相当する« gotas »と訳されているなど、スペイン語への翻訳については様々な操作がなされていることがわかりました。実際にバロン＝シュペルヴィエルは、スペイン語とフランス語というアクセントの異なる言語間の翻訳に際しては、意味の正確さよりもアクセントの類似に重きを置いて言葉を探す、と述べています^[« TRADUIRE, ÉCRIRE, Table ronde animée par Nathalie Crom, avec Silvia Baron-Supervielle, Florence Delay, Claire Malroux », Vingt-cinquièmes assises de la traduction littéraire (Arles 2008), Etranges traducteurs, ATLAS / ACTES SUD, 2008, p. 33-62, p. 36. [http://www.atlas-citl.org/wp-content/uploads/pdf/25actes.pdf](http://www.atlas-citl.org/wp-content/uploads/pdf/25actes.pdf)]。スペイン語とフランス語の間に立つ翻訳者であるシルヴィア・バロン＝シュペルヴィエルの詩作は、それ自体が、内なる他者によって手話のように話される「音のない声」の翻訳でもあります^[Silvia Baron Supervielle, « Traduire sa voix familière et inconnue », op. cit., p. 248.]。ふたつの言語の「間に立つ」ことで初めて、作家はこの未知なる声によって、遠い記憶や失われたものの探究へと導かれるのだと言えるでしょう。
+また、研究会ではAprès le pasのみ、作家本人によるスペイン語の翻訳も参照しました。« giclées »が フランス語の« goûte » に相当する« gotas »と訳されているなど、スペイン語への翻訳については様々な操作がなされていることがわかりました。実際にバロン＝シュペルヴィエルは、スペイン語とフランス語というアクセントの異なる言語間の翻訳に際しては、意味の正確さよりもアクセントの類似に重きを置いて言葉を探す、と述べています^[« TRADUIRE, ÉCRIRE, Table ronde animée par Nathalie Crom, avec Silvia Baron-Supervielle, Florence Delay, Claire Malroux », Vingt-cinquièmes assises de la traduction littéraire (Arles 2008), Etranges traducteurs, ATLAS / ACTES SUD, 2008, p. 33-62, p. 36. [http://www.atlas-citl.org/wp-content/uploads/pdf/25actes.pdf](http://www.atlas-citl.org/wp-content/uploads/pdf/25actes.pdf)]。スペイン語とフランス語の間に立つ翻訳者であるシルヴィア・バロン＝シュペルヴィエルの詩作は、それ自体が、内なる他者によって手話のように話される「音のない声」の翻訳でもあります^[Silvia Baron Supervielle, « Traduire sa voix familière et inconnue », op. cit., p. 248.]。ふたつの言語の「間に立つ」ことで初めて、作家はこの未知なる声によって、遠い記憶や失われたものの探究へと導かれるのだと言えるでしょう。（佐藤）

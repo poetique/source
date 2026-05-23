@@ -3,7 +3,7 @@ title: ギヨーム・アポリネールを読む
 date: 2019-03-26
 categories:
 - "フランス現代詩読書会"
-number:  46
+number:  40
 author: "高柳和美"
 author2: Kazumi TAKAYANAGI
 tags:

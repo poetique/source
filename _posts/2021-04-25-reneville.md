@@ -3,7 +3,7 @@ title: アンドレ・ロラン・ド・ルネヴィルを読む
 date: 2021-04-25
 categories:
 - "フランス現代詩読書会"
-number:  54
+number:  48
 author: "伊藤琢麻"
 author2: Takuma ITO
 tags:
